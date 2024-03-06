@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>AskForPermission</Title>
+        <Authors>Ekkehard C. Damisch</Authors>
+        <Description>A small utility class that allows for checking for admin right in windows as well as restarting the current application as an admin via a UAC prompt</Description>
+        <Copyright>Ekkehard C. Damisch</Copyright>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageProjectUrl>https://github.com/yorschor/AskForPermission</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/yorschor/AskForPermission</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+        <PackageTags>csharp, c#, library, admin, dialog, uac, windows, permission</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="..\..\README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+
+</Project>
