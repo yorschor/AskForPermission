@@ -1,5 +1,5 @@
 ﻿# Ask for permission
-
+![continues workflow](https://github.com/yorschor/AskForPermission/actions/workflows/continuous.yml/badge.svg?branch=trunk)
 ## 📚 About 
 A small utility class that allows for checking for admin right in windows as well as restarting the current application as an admin via a UAC prompt
 
