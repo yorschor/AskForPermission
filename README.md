@@ -1,5 +1,9 @@
 ﻿# Ask for permission
-![continues workflow](https://github.com/yorschor/AskForPermission/actions/workflows/continuous.yml/badge.svg?branch=trunk)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/yorschor/AskForPermission/continuous.yml?branch=trunk&style=flat&label=Trunk)
+![NuGet](https://img.shields.io/nuget/v/AskForPermission)
+![NuGet Downloads](https://img.shields.io/nuget/dt/AskForPermission?style=flat)
+![GitHub License](https://img.shields.io/github/license/yorschor/AskForPermission?style=flat)
+
 ## 📚 About 
 A small utility class that allows for checking for admin right in windows as well as restarting the current application as an admin via a UAC prompt
 

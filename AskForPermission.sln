@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForPermission", "src\Ask
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForPermissionDemo", "src\AskForPermissionDemo\AskForPermissionDemo.csproj", "{98225950-05C8-4A6E-AD68-08D6BFC9E47C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5583059A-4E4E-4323-BEE5-79078779019C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{733A4E9A-6B87-4E72-82DB-8E4176E7C56C}"
 EndProject
 Global
@@ -26,6 +24,5 @@ Global
 		{98225950-05C8-4A6E-AD68-08D6BFC9E47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{733A4E9A-6B87-4E72-82DB-8E4176E7C56C} = {5583059A-4E4E-4323-BEE5-79078779019C}
 	EndGlobalSection
 EndGlobal
